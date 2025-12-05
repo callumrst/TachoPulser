@@ -3,6 +3,9 @@ Hardware for driving OEM coil based tachometers.  Simple circuit using a 2N5551 
 
 ![TachoPulser Board](/BoardOverview.png)
 
+### Purchase
+If you want to purchase an assembled TachoPulser, you can do so here: [MK1 & MK2 Golf Coil Tacho RPM Converter - Forbes Automotive](https://forbes-automotive.com/products/ecu-to-coil-tacho-adapter)
+
 ## Installation
 Boards are supplied with 1x 4-pin JST-XH cable with the connections marked on the board.
 
